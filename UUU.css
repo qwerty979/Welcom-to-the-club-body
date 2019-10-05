@@ -1,0 +1,19 @@
+* { font-family:Comic Sans Ms, sans-serif; }
+body {background-image:url('1.jpg');
+}
+h1{color:#FF8C00; font-size:28px; text-align:center; text-transform:uppercase; 
+letter-spacing:12px}
+p {color:#fff; text-align:justify; text-indent:18px; line-height:16px}
+b, i {background-color:#ff8c00}
+.komikon {color:#00FF00}
+.komikon:hover {color:#800080}
+.komikon:visited {color:#FF0000;}
+#lox {
+	border: 2px s green;
+	height: 23px;
+	width: 47px;
+	
+	
+}
+
+
